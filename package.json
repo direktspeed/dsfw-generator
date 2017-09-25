@@ -45,8 +45,8 @@
     "q": "^1.4.1",
     "semver": "^5.1.0",
     "validate-npm-package-name": "^2.2.2",
-    "whatwg-url": "^6.0.0",
-    "yeoman-generator": "^1.1.0"
+    "yeoman-generator": "^2.0.0",
+    "whatwg-url": "^6.0.0"
   },
   "devDependencies": {
     "coveralls-send": "0.0.2",
