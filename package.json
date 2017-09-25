@@ -44,7 +44,7 @@
     "lodash.upperfirst": "^4.1.2",
     "q": "^1.4.1",
     "semver": "^5.1.0",
-    "validate-npm-package-name": "^2.2.2",
+    "validate-npm-package-name": "^3.0.0",
     "yeoman-generator": "^2.0.0",
     "whatwg-url": "^6.0.0"
   },
