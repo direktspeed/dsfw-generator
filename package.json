@@ -55,7 +55,7 @@
     "fs-extra": "^0.30.0",
     "istanbul": "^0.4.2",
     "mkdirp": "^0.5.1",
-    "mocha": "^2.3.0",
+    "mocha": "^6.0.0",
     "mocha-lcov-reporter": "^1.2.0",
     "user-home": "^2.0.0",
     "yeoman-assert": "^3.0.0",
